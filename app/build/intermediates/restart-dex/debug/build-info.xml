@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="22"
+    density="xhdpi"
+    format="7"
+    timestamp="6228205535847"
+    token="1761599047954145270" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <artifact
+        location="/Users/puneetakhouri/Documents/mywork/workspace/CompassApp1/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex"
+        type="DEX" />
+
+    <build timestamp="5460068559155" >
+        <artifact
+            location="/Users/puneetakhouri/Documents/mywork/workspace/CompassApp1/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build timestamp="6228205535847" >
+        <artifact
+            location="/Users/puneetakhouri/Documents/mywork/workspace/CompassApp1/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>
